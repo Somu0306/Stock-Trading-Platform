@@ -10,12 +10,12 @@ import Universe from './Universe';
 function ProductsPage() {
     return (
         <div>
-            <Navbar />
+    
             <Hero />
             <LeftSection />
             <RightSection />
             <Universe />
-            <Footer />
+         
         </div>
     );
 }
